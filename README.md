@@ -1,6 +1,14 @@
-# wgdp
+# About Me
 
-<p align="left">
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=wgdp&theme=tokyonight&show_icons=ture&count_private=true" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgdp&layout=compact&show_icons=true&theme=tokyonight" />
-</p>
+🌱 I'm wgdp / うぃどら
+🌍 Based in Tokyo, Japan
+💻 I'm a software developer
+
+## My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=cs,go,py,kubernetes,azure,neovim,vscode)](https://skillicons.dev)
+
+## Links
+
+- [Blog](https://wgdp.dev)
+- [X](https://x.com/yadonantoka)
