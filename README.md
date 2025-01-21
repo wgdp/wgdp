@@ -1,7 +1,7 @@
 # About Me
 
 🌱 I'm wgdp / うぃどら<br>
-🌍 Based in Tokyo, Japan<br>
+🌍 Based in Japan/Tokyo<br>
 💻 I'm a software developer<br>
 
 ## My Skills
