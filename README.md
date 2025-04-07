@@ -1,10 +1,8 @@
 # About Me
 
-🌱 I'm wgdp / うぃどら<br>
-🌍 Based in Japan/Tokyo<br>
-💻 I'm a software developer<br>
+[Profile](https://profile.wgdp.dev)
 
 ## Links
 
-- [Blog](https://wgdp.dev)
+- [Blog](https://blog.wgdp.dev)
 - [X](https://x.com/yadonantoka)
